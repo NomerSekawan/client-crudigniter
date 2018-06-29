@@ -7,7 +7,7 @@ class index extends CI_Controller
 	function __construct()
 	{
 		parent::__construct();
-		$this->API="http://localhost/server-crudignite/index.php";
+		$this->API="http://localhost/server-crudigniter/index.php";
 	}
 
 	function index()
